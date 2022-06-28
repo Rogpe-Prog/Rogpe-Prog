@@ -26,7 +26,5 @@ Hello I'm Paulo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy
 <br>
   
   
-  ![Snake animation](https://github.com/Math-Vieira/Math-Vieira/blob/output/github-contribution-grid-snake.svg)
-  
-  <a href = "mailto:paulo.rogpe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://rogpe.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a>
+![Snake animation](https://github.com/Math-Vieira/Math-Vieira/blob/output/github-contribution-grid-snake.svg)
+ 
