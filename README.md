@@ -4,8 +4,10 @@ Hello I'm Paulo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy
 
 <div>
   <a href="https://github.com/Rogpe-Prog">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rogpe-Prog&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogpe-Prog&layout=compact&langs_count=7&theme=solarized-dark"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Rogpe-Prog&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogpe-Prog&layout=compact&langs_count=7&theme=solarized-dark"/>
+  
 </div>
 
 <div style="text-align:center;"><br>
