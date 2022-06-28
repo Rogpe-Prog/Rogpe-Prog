@@ -2,13 +2,10 @@
 Hello I'm Paulo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-- 🌱 ...React JS
-- 👯 ....desenvolvedor FullStack
-
 <div>
-  <a href="https://github.com/Math-Vieira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=math-vieira&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogpe-Prog&layout=compact&langs_count=7&theme=solarized-dark"/>
+  <a href="https://github.com/Rogpe-Prog">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rogpe-Prog&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogpe-Prog&layout=compact&langs_count=7&theme=solarized-dark"/>
 </div>
 
 <div style="text-align:center;"><br>
@@ -23,13 +20,10 @@ Hello I'm Paulo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy
 
 <img align="center" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 
-
-
 </div>
+ 
 
-  
-
-  <br>
+<br>
   
   
   ![Snake animation](https://github.com/Math-Vieira/Math-Vieira/blob/output/github-contribution-grid-snake.svg)
