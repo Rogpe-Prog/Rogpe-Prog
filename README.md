@@ -33,5 +33,6 @@ Hello I'm Paulo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy
 <br>
 
 <div align="center"> 
+  <iframe src="https://giphy.com/embed/wK7OxwuSbNctvwgBmu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/TioGe-loop-hand-finger-wK7OxwuSbNctvwgBmu">via GIPHY</a></p>
 <a href="https://aboutme-one.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true"></a>
 </div>
