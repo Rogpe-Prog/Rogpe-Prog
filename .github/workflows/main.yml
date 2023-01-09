@@ -9,6 +9,8 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: Linux-host-runner
+    container:
+      image: ubuntu-20.04-lts:latest  # This is our private docker image.
     steps:
       # Snake Animation
       - uses: Platane/snk@master
