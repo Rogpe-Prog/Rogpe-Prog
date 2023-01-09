@@ -1,4 +1,4 @@
-name: Generate Data
+name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
@@ -8,9 +8,7 @@ on:
 jobs:
   build:
     name: Jobs to update datas
-    runs-on: Linux-host-runner
-    container:
-      image: ubuntu-20.04-lts:latest  # This is our private docker image.
+    runs-on: ubuntu-latest
     steps:
       # Snake Animation
       - uses: Platane/snk@master
