@@ -1,12 +1,12 @@
 ## Hi, I am Paulo! 
 
 
- <!--<div>
+ <div>
 </br>
-  <a href="https://github.com/Rogpe-Prog">    
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogpe-Prog&layout=compact&langs_count=16&theme=dark"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rogpe-Prog&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues"/>
-</div>!-->
+ <a href="https://github.com/Rogpe-Prog">    
+ <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogpe-Prog&layout=compact&langs_count=16&theme=dark"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rogpe-Prog&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
           
  
  ## Skills
