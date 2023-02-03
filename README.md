@@ -41,8 +41,10 @@
 </div>
   
 </br>
-
-## Contact 
+<div align="center">
+ <p>_______________________________________</p>
+</div> 
+<h3>In my portfolio you look some solutions that I had a great feeling to participate of the solution and implementation.</h3>
 <div align="center">
   <div>
     <a href="https://aboutme-one.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTIFOLIO-2ea44f?style=for-the-badge" target="_blank"></a>
