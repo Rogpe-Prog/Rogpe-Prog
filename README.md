@@ -30,21 +30,13 @@
    <img img height="40" align="center" alt="Rogpe-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img img height="40" align="center" alt="Rogpe-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- 
- 
-           
-          
- 
- 
- 
-  
+</br></br></br>          
 </div>
+
   
-</br>
-<div align="center">
- <p>_______________________________________</p>
-</div> 
-<h3>In my portfolio you look some solutions that I had a great feeling to participate of the solution and implementation.</h3>
+
+ ## Portifolio
+<h3>Click to know about my portfolio and see some solutions that I had a great feeling to participate of the solution and implementation.</h3>
 <div align="center">
   <div>
     <a href="https://aboutme-one.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTIFOLIO-2ea44f?style=for-the-badge" target="_blank"></a>
