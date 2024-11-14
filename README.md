@@ -27,7 +27,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img img height="40" align="center" alt="Rogpe-bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img img height="40" align="center" alt="Rogpe-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+   <img img height="40" align="center" alt="Rogpe-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img img height="40" align="center" alt="Rogpe-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </br></br></br>          
