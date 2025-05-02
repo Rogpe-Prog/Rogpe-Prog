@@ -36,7 +36,7 @@
 <h3>Click to know about my portfolio and see some solutions that I had a great feeling to participate of the solution and implementation.</h3>
 <div align="center">
   <div>
-    <a style="font-size: 42px; href="https://aboutme-one.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTIFOLIO-2ea44f?style=for-the-badge" target="_blank"></a>
+    <a href="https://aboutme-one.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTIFOLIO-2ea44f?style=for-the-badge" target="_blank"></a>
   </div>
  </br>
 </br>
