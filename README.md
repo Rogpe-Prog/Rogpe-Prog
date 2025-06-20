@@ -41,6 +41,8 @@
  </br>
 </br>
 
-![Snake animation](https://github.com/Rogpe-Prog/Rogpe-Prog/blob/output/github-contribution-grid-snake.svg)
+<div align=center>
+ <img src="https://raw.githubusercontent.com/Rogpe-Prog/Rogpe-Prog/output/snake.svg" alt="Snake animation" />
+</div>
 
 </div>
