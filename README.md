@@ -29,6 +29,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img img height="40" align="center" alt="Rogpe-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img img height="40" align="center" alt="Rogpe-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </br></br></br>          
 </div>
 
